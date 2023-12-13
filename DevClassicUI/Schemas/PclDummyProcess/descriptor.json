@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "c5a9ff5a-5fff-41eb-bf21-25a34d70e11f",
     "Name": "PclDummyProcess",
-    "ModifiedOnUtc": "\/Date(1702403044000)\/",
+    "ModifiedOnUtc": "\/Date(1702431625000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Dummy Process",
     "DependsOn": []
